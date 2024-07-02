@@ -1,0 +1,25 @@
+C:\Users\Scooo\source\repos\Open Weather Map\bin\Debug\net8.0\Open Weather Map.exe
+C:\Users\Scooo\source\repos\Open Weather Map\bin\Debug\net8.0\Open Weather Map.deps.json
+C:\Users\Scooo\source\repos\Open Weather Map\bin\Debug\net8.0\Open Weather Map.runtimeconfig.json
+C:\Users\Scooo\source\repos\Open Weather Map\bin\Debug\net8.0\Open Weather Map.dll
+C:\Users\Scooo\source\repos\Open Weather Map\bin\Debug\net8.0\Open Weather Map.pdb
+C:\Users\Scooo\source\repos\Open Weather Map\obj\Debug\net8.0\Open Weather Map.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Scooo\source\repos\Open Weather Map\obj\Debug\net8.0\Open Weather Map.AssemblyInfoInputs.cache
+C:\Users\Scooo\source\repos\Open Weather Map\obj\Debug\net8.0\Open Weather Map.AssemblyInfo.cs
+C:\Users\Scooo\source\repos\Open Weather Map\obj\Debug\net8.0\Open Weather Map.csproj.CoreCompileInputs.cache
+C:\Users\Scooo\source\repos\Open Weather Map\obj\Debug\net8.0\Open Weather Map.dll
+C:\Users\Scooo\source\repos\Open Weather Map\obj\Debug\net8.0\refint\Open Weather Map.dll
+C:\Users\Scooo\source\repos\Open Weather Map\obj\Debug\net8.0\Open Weather Map.pdb
+C:\Users\Scooo\source\repos\Open Weather Map\obj\Debug\net8.0\Open Weather Map.genruntimeconfig.cache
+C:\Users\Scooo\source\repos\Open Weather Map\obj\Debug\net8.0\ref\Open Weather Map.dll
+C:\Users\Scooo\source\repos\Open Weather Map\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\Scooo\source\repos\Open Weather Map\obj\Debug\net8.0\Open Weather Map.csproj.AssemblyReference.cache
+C:\Users\Scooo\source\repos\Open Weather Map\obj\Debug\net8.0\Open Wea.84342C56.Up2Date
+C:\Users\Scooo\source\repos\Open Weather Map\bin\Debug\net8.0\Microsoft.Extensions.Configuration.dll
+C:\Users\Scooo\source\repos\Open Weather Map\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Scooo\source\repos\Open Weather Map\bin\Debug\net8.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\Scooo\source\repos\Open Weather Map\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\Scooo\source\repos\Open Weather Map\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Scooo\source\repos\Open Weather Map\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\Scooo\source\repos\Open Weather Map\bin\Debug\net8.0\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\Scooo\source\repos\Open Weather Map\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
